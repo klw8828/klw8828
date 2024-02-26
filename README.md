@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kellie
 - 👀 I’m interested in expanding my coding skills
 - 🌱 I’m currently learning to create an app using visual studios and flutter
-- 📫 How to reach me GitHub!
+- 📫 How to reach me: GitHub!
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I grew up in Vermont, and live in Boston!
 
